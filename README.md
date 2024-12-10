@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @anivikr21
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java
-- 📫 How to reach me: java
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: java
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me: 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 anivikr21/anivikr21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
